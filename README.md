@@ -8,6 +8,7 @@ Trabajando con tipos de datos.
 
 Operadores
 
+CLASES:
 + Ejercicio1 - OperacionesBasicasApp
 + Ejercicio2 - OperacionesBasicasDosApp
 + Ejercicio3 - OperacionesApp
